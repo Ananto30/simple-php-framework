@@ -1,0 +1,1 @@
+A simple php framework with the concept of MVC pattern. All you need is the php installed in your system. Start a php server like "php -S localhost:8080" and see a live site running on http://localhost:8080
